@@ -1,0 +1,233 @@
+[{
+  "_id": {
+    "$oid": "638218f33f0228be2b2e3b3c"
+  },
+  "time": "7h",
+  "notes": [
+    {
+      "day": "Thứ 2",
+      "content": "Dọn nhà",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b3d"
+      }
+    },
+    {
+      "day": "Thứ 3",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b3e"
+      }
+    },
+    {
+      "day": "Thứ 4",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b3f"
+      }
+    },
+    {
+      "day": "Thứ 5",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b40"
+      }
+    },
+    {
+      "day": "Thứ 6",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b41"
+      }
+    },
+    {
+      "day": "Thứ 7",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b42"
+      }
+    },
+    {
+      "day": "Chủ nhật",
+      "content": "",
+      "_id": {
+        "$oid": "638218f33f0228be2b2e3b43"
+      }
+    }
+  ],
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638219043f0228be2b2e3b5f"
+  },
+  "time": "trưa",
+  "notes": [
+    {
+      "day": "Thứ 2",
+      "content": "",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b60"
+      }
+    },
+    {
+      "day": "Thứ 3",
+      "content": "",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b61"
+      }
+    },
+    {
+      "day": "Thứ 4",
+      "content": "Nấu cơm",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b62"
+      }
+    },
+    {
+      "day": "Thứ 5",
+      "content": "Nấu cháo",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b63"
+      }
+    },
+    {
+      "day": "Thứ 6",
+      "content": "",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b64"
+      }
+    },
+    {
+      "day": "Thứ 7",
+      "content": "",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b65"
+      }
+    },
+    {
+      "day": "Chủ nhật",
+      "content": "",
+      "_id": {
+        "$oid": "638219043f0228be2b2e3b66"
+      }
+    }
+  ],
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63821a003f0228be2b2e3d48"
+  },
+  "time": "8 - 9 h",
+  "notes": [
+    {
+      "day": "Thứ 2",
+      "content": "",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d49"
+      }
+    },
+    {
+      "day": "Thứ 3",
+      "content": "Mua táo",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4a"
+      }
+    },
+    {
+      "day": "Thứ 4",
+      "content": "",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4b"
+      }
+    },
+    {
+      "day": "Thứ 5",
+      "content": "",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4c"
+      }
+    },
+    {
+      "day": "Thứ 6",
+      "content": "Mua cam",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4d"
+      }
+    },
+    {
+      "day": "Thứ 7",
+      "content": "",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4e"
+      }
+    },
+    {
+      "day": "Chủ nhật",
+      "content": "",
+      "_id": {
+        "$oid": "63821a003f0228be2b2e3d4f"
+      }
+    }
+  ],
+  "account_id": "638219ee3f0228be2b2e3d3f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63834b8f0f2440a7a0e83ba9"
+  },
+  "time": "",
+  "notes": [
+    {
+      "day": "Thứ 2",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83baa"
+      }
+    },
+    {
+      "day": "Thứ 3",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83bab"
+      }
+    },
+    {
+      "day": "Thứ 4",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83bac"
+      }
+    },
+    {
+      "day": "Thứ 5",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83bad"
+      }
+    },
+    {
+      "day": "Thứ 6",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83bae"
+      }
+    },
+    {
+      "day": "Thứ 7",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83baf"
+      }
+    },
+    {
+      "day": "Chủ nhật",
+      "content": "",
+      "_id": {
+        "$oid": "63834b8f0f2440a7a0e83bb0"
+      }
+    }
+  ],
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6382193b3f0228be2b2e3c19"
+  },
+  "date": 30,
+  "month": 11,
+  "year": 2022,
+  "content": "Đi chơi",
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638219463f0228be2b2e3c3e"
+  },
+  "date": 1,
+  "month": 12,
+  "year": 2022,
+  "content": "Dọn dẹp",
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638219693f0228be2b2e3ccc"
+  },
+  "date": 15,
+  "month": 12,
+  "year": 2022,
+  "content": "Sinh nhật:\n  + Mua quà\n  + Mua bánh",
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63821a2b3f0228be2b2e3d98"
+  },
+  "date": 29,
+  "month": 11,
+  "year": 2022,
+  "content": "Ăn tiệc",
+  "account_id": "638219ee3f0228be2b2e3d3f",
+  "__v": 0
+}]

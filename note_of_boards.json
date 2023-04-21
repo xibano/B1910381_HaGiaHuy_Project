@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "638218ec3f0228be2b2e3b37"
+  },
+  "title": "Mua nội thất",
+  "content": "- Bàn\n- Ghế",
+  "favorite": true,
+  "updatedAt": {
+    "$date": "2022-11-26T13:47:24.248Z"
+  },
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638219fc3f0228be2b2e3d44"
+  },
+  "title": "",
+  "content": "Dọn nhà",
+  "favorite": false,
+  "updatedAt": {
+    "$date": "2022-11-26T13:51:56.854Z"
+  },
+  "account_id": "638219ee3f0228be2b2e3d3f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6382d77f78f976cdd9d71c1c"
+  },
+  "title": "",
+  "content": "Mua nhà",
+  "favorite": false,
+  "updatedAt": {
+    "$date": "2022-11-27T03:20:31.461Z"
+  },
+  "account_id": "638218c23f0228be2b2e3b32",
+  "__v": 0
+}]

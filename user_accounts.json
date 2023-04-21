@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "638218c23f0228be2b2e3b32"
+  },
+  "username": "user1",
+  "password": "1",
+  "fullname": "Nguyễn Văn 1",
+  "avatar": "avatar_user_id_638218c23f0228be2b2e3b32.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638219ee3f0228be2b2e3d3f"
+  },
+  "username": "user2",
+  "password": "2",
+  "fullname": "Nguyễn Văn 2",
+  "avatar": "",
+  "__v": 0
+}]
