@@ -24,6 +24,11 @@
         >
       </li>
       <li>
+        <router-link to="/quizes"
+          ><i class="fa-solid fa-book"></i> Thi thử</router-link
+        >
+      </li>
+      <li>
         <router-link
           to="/user_account"
           :class="{ 'text-light': activeTab == 'user_account' }"

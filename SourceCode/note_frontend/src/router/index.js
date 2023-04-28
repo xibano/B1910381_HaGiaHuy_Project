@@ -33,10 +33,23 @@ const routes = [
   },
 
   {
+    path: "/quizes",
+    name: "quizes",
+    component: () => import("./../components/views/QuizesView.vue"),
+  },
+
+  {
+    path: "/quiz/:id",
+    name: "quiz",
+    component: () => import("./../components/views/QuizView.vue"),
+  },
+
+  {
     path: "/user_account",
     name: "user_account",
     component: () => import("./../components/UserAccount/UserAccountPage.vue"),
   },
+
 ];
 
 const router = createRouter({

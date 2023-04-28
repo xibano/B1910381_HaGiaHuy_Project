@@ -1,0 +1,584 @@
+[
+    {
+        "id": 1,
+        "img": "https://s3.cloud.cmctelecom.vn/tinhte2/2020/02/4899997_cover.jpg",
+        "name": "Toán",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://bcp.cdnchinhphu.vn/Uploaded/dothanhhoai/2019_05_09/dadang.jpg",
+        "name": "Sinh học",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Chu trình Kreb xảy ra ở đâu ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ti thể",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nhân tế bào",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ER động",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Nang",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Hemoglobin có thể chứa bao nhiêu phân tử oxi ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Tế bào có mấy thành phần chính ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://www.dinhnghia.com.vn/wp-content/uploads/2022/04/hoa-hoc-la-gi-vai-tro-cua-hoa-hoc-trong-doi-song.jpg",
+        "name": "Hóa học",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Thành phần của muối ăn là gì ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Ký hiệu hóa học của Kali là gì ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Cái nào sau đây không là hữu cơ ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://fususu.com/wp-content/uploads/2020/07/cach-hoc-thuoc-cong-thuc-vat-ly-3.jpg",
+        "name": "Vật lý",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Hiện tượng khúc xạ là hiện tượng ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ánh sáng bị gãy khúc khi truyền xiên góc qua mặt phân cách giữa 2 môi trường trong suốt",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ánh sáng bị giảm cường độ khi truyền qua mặt phân cách giữa 2 môi trường trong suốt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ánh sáng bị hắt lại môi trường cũ khi truyền tới mặt phân cách giữa 2 môi trường trong suốt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Ánh sáng bị thay đổi màu sắc khi truyền qua mặt phân cách giữa 2 môi trường trong suốt",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Khi góc tới tăng 2 lần thì góc khúc xạ ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tăng 2 lần",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tăng 4 lần",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tăng 1,4142 lần",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chưa đủ dữ kiện để xác định",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Khi sin góc tới tăng 2 lần thì góc khúc xạ ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tăng 4 lần",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tăng 2 lần",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tăng 1,4142 lần",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chưa đủ dữ kiện để xác định",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://vnlit.com/wp-content/uploads/2021/07/sach-hay-ve-dia-ly-cover.png",
+        "name": "Địa lí",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Sự bùng nổ dân số hiện nay trên thế giới diễn ra chủ yếu ở ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Các nước công nghiệp mới",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Các nước phát triển",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Các nước đang phát triển",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Khu vực Châu Phi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Trong các loại khí thải sau, loại khí thải nào đã làm tầng ozon mỏng dần ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "O3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "CFCs",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "N2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Nguyên nhân gây nên hiệu ứng nhà kính là ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Khí thải CFCs quá nhiều trong khí quyển",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sự gia tăng khí CO2 trong khí quyển",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tầng ozon mỏng dần và thủng ở Nam Cực",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chât thải ra môi trường không qua xử lý",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://luathoangphi.vn/wp-content/uploads/2021/12/vi-sao-phai-hoc-lich-su.jpg",
+        "name": "Lịch sử",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Trong Cải cách về chính trị của Minh Trị, giai cấp nào được đề cao ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tư sản",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Địa chủ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Quý tộc, tư sản",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Quý tộc",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Đến giữa thế kỷ XIX, quyền hành thực tế Nhật Bản nằm trong tay ai ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Thiên hoàng",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tướng quân",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tư sản",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Thủ tướng",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Đến giữa thế kỷ XIX, Nhật Bản là một quốc gia ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Phong kiến quân phiệt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Phong kiến trì trệ, bảo thủ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tư bản chủ nghĩa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Công nghiệp phát triển",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
